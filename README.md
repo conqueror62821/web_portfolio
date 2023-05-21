@@ -7,10 +7,6 @@ A fictional multi-page responsive portfolio website for John David which is buil
 - CSS3
 - Sass
 
-![JohnDoe Screenshot](img/screenshot.png "JohnDoe Screenshot")
-
-Visit the [live preview](https://johndoe-portfolio.netlify.com/).
-
 ## Future Improvements:
 - [ ] Make it a single page site.
 - [ ] Add some more styling and animations.
